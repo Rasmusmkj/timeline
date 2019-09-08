@@ -1,0 +1,115 @@
+<svg id="marvelmovies" xmlns="http://www.w3.org/2000/svg" width="1209" height="6685" viewBox="0 0 1209 6685">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: none;
+      }
+
+      .cls-1, .cls-11, .cls-3, .cls-5, .cls-6 {
+        stroke: #ed1d24;
+      }
+
+      .cls-1, .cls-11, .cls-12, .cls-3, .cls-4, .cls-5, .cls-6 {
+        stroke-miterlimit: 10;
+      }
+
+      .cls-1, .cls-3 {
+        stroke-width: 5px;
+      }
+
+      .cls-11, .cls-2, .cls-3, .cls-4, .cls-5, .cls-6 {
+        fill: #ed1d24;
+      }
+
+      .cls-4 {
+        stroke: black;
+      }
+
+      .cls-12, .cls-4 {
+        stroke-width: 10px;
+      }
+
+      .cls-6 {
+        stroke-width: 14px;
+      }
+
+      .cls-7 {
+        font-size: 120px;
+        font-family: "Marvel", cursive;
+        font-weight: 700;
+      }
+
+      .cls-10, .cls-7 {
+        fill: black;
+        text-align: center;
+      }
+
+      .cls-8 {
+        letter-spacing: 0em;
+      }
+
+      .cls-9 {
+        letter-spacing: -0.01em;
+      }
+
+      .cls-11 {
+        stroke-width: 8px;
+      }
+
+      .cls-12 {
+        stroke: #000;
+      }
+    </style>
+  </defs>
+  <title>marveltemplate</title>
+  <g>
+    <line class="cls-1" x1="604" y1="493" x2="604" y2="3730"/>
+    <line class="cls-2" x1="604" y1="493" x2="604" y2="3455"/>
+  </g>
+  <g id="ironman">
+    <circle class="HTML_placeholder cls-4" data-name="HTML placeholder"  class="cls-3" cx="605" cy="767.5" r="92.5"/>
+  </g>
+  <g id="hulk">
+  <circle class="HTML_placeholder cls-6" data-name="HTML placeholder"  class="cls-3" cx="605" cy="1100" r="92.5"/>
+  </g>>
+
+    <g id="ironman2">
+  <circle class="HTML_placeholder cls-6" data-name="HTML placeholder" class="cls-3" cx="605" cy="1350" r="92.5"/>
+  </g>
+
+      <g id="thor">
+  <circle class="HTML_placeholder cls-6" data-name="HTML placeholder" class="cls-3" cx="605" cy="1600" r="92.5"/> </g>
+
+
+  <g id="captainamerica">
+  <circle class="HTML_placeholder cls-6" data-name="HTML placeholder" class="cls-3" cx="605" cy="1850" r="92.5"/> </g>
+
+  <rect id="marvel" class="cls-4" x="5" y="5" width="1199" height="493"/>
+
+  <g id="marvel1">
+  <circle class="HTML_placeholder cls-6" data-name="HTML placeholder" class="cls-3" cx="605" cy="2300" r="202.5"/> </g>
+
+  <g id="ironman3">
+  <circle class="HTML_placeholder cls-6" data-name="HTML placeholder" class="cls-3" cx="605" cy="2800" r="92.5"/> </g>
+
+  <g id="thor2">
+  <circle class="HTML_placeholder cls-6" data-name="HTML placeholder"class="cls-3" cx="605" cy="3050" r="92.5"/>
+
+  </g>
+
+<g id="captainamerica2">
+  <circle class="HTML_placeholder cls-6" data-name="HTML placeholder" class="cls-3" cx="605" cy="3500" r="92.5"/>
+  </g>
+
+
+  <g id="guardians">
+
+  <circle class="HTML_placeholder cls-6" data-name="HTML placeholder" class="cls-3" cx="605" cy="3800" r="92.5"/>
+
+  </g>
+<g id="Layer_2" data-name="Layer 2">
+    <text class="cls-7" transform="translate(83.31 301.48)">MARVEL MOVIES PHASE 1 AND 2</text>>
+
+  </g>
+
+</svg>

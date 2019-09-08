@@ -1,16 +1,31 @@
 <!DOCTYPE html>
-<html lang="da">
+<html lang="en">
+  <head>
+    <meta cha-field="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta http-equiv="X-UA-Compatible" content="ie=edge" />
+    <title>Marvel Studio Timeline</title>
+    <link rel="stylesheet" href="style.css" />
+    <link href="https://fonts.googleapis.com/css?family=Passion+One&display=swap" rel="stylesheet">
+  </head>
+  <body>
+    <div id="svg_timeline">
+      <div class="svgplaceholder" data-svgplaceholder="captainamerica"></div>
+      <div class="svgplaceholder" data-svgplaceholder="ironman"></div>
+      <div class="svgplaceholder" data-svgplaceholder="hulk"></div>
+      <div class="svgplaceholder" data-svgplaceholder="ironman2"></div>
+      <div class="svgplaceholder" data-svgplaceholder="thor"></div>
+      <div class="svgplaceholder" data-svgplaceholder="marvel1"></div>
+      <div class="svgplaceholder" data-svgplaceholder="ironman3"></div>
+      <div class="svgplaceholder" data-svgplaceholder="thor2"></div>
+      <div class="svgplaceholder" data-svgplaceholder="captainamerica2"></div>
+      <div class="svgplaceholder" data-svgplaceholder="guardians"></div>
 
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta http-equiv="X-UA-Compatible" content="ie=edge">
-    
-    <title>Marvel Movies Timeline</title>
-</head>
-
-<body>
-
-</body>
-
+      <template id="movie_template">
+        <h1 data-field="title"></h1>
+        <p data-field="year"></p>
+      </template>
+    </div>
+  </body>
+  <script src="magic.js"></script>
 </html>
